@@ -8,7 +8,7 @@
 
 <item>
 <title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UCpktxU978OxuHbNCi4-oQhsCdX3d2cz/view?usp=sharing?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/uc?export=download&id=10xpUctqipZY44Yxl8KTE3REo3cM81Clr?usp=sharing?usp=drivesdk</link>
 <thumbnail>THUMBNAIL DO FILME</thumbnail>
 <fanart>FANART DO FILME</fanart>
 <info>TEXTO DE SINOPSE.</info>
